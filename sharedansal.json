@@ -5,9 +5,11 @@
   "websiteLink": "https://www.cyberyakku.com",
   "abouttext": "දන්සල් තිබෙන තැන් පහසුවෙන් සොයා ගැනිමට හා තොරණ් පහන්කූඩු සහ බැති ගී තිබෙන ස්ථාන පහසුවෙන් සොයා ගැනීමට මෙම App එක ඔබට උදව් වෙයි.  ඒ වගේම ඔබට එවැනි ස්ථාන මෙයට ඇතුළත් කළ හැක",
   "devteam":[
-    {"name":"Ravindu Dilshan","pos":"Co-founder, Developer"},
-    {"name":"Lahiru Jay","pos":"Co-founder, Web Developer"},
-    {"name":"Lakmal M. Siriwardhana","pos":"Lead Developer"},   
+    {"name":"Ravindu Dilshan","pos":"Co-founder, Developer","imageurl":"https://i0.wp.com/cyberyakku.com/wp-content/uploads/2022/01/120367125_101329677576s0936_8114850774347307213_n-scaled.jpg"},
+    {"name":"Lahiru Jay","pos":"Co-founder, Web Developer","imageurl":"https://i0.wp.com/cyberyakku.com/wp-content/uploads/2021/11/1-1-e1641202505536.png"},
+    {"name":"Lakmal M. Siriwardhana","pos":"Lead Developer","imageurl":"https://i0.wp.com/cyberyakku.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-07-at-2.37.44-PM.jpeg"},
+    {"name":"Chamika Sahan Samarakoon","pos":"Web Developer","imageurl":"https://i0.wp.com/cyberyakku.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-16-at-17.39.35.jpg"},   
+    {"name":"Sahan Nimesha Samarakoon","pos":"Web Developer","imageurl":"https://i0.wp.com/cyberyakku.com/wp-content/uploads/2023/05/302234625_825982958452245_1691040037842720897_n-1.jpg"},   
     {"name":"and all members of Cyberyakku Team","pos":""}
   ],
   "types": [
