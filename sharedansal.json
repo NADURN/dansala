@@ -4,6 +4,12 @@
   "googlePlayStoreLink": "https://play.google.com/store/apps/details?id=com.cy.dansal",
   "websiteLink": "https://www.cyberyakku.com",
   "abouttext": "දන්සල් තිබෙන තැන් පහසුවෙන් සොයා ගැනිමට හා තොරණ් පහන්කූඩු සහ බැති ගී තිබෙන ස්ථාන පහසුවෙන් සොයා ගැනීමට මෙම App එක ඔබට උදව් වෙයි.  ඒ වගේම ඔබට එවැනි ස්ථාන මෙයට ඇතුළත් කළ හැක",
+  "devteam":[
+    {"name":"Ravindu Dilshan","pos":"Co-founder, Developer"},
+    {"name":"Lahiru Jay","pos":"Co-founder, Web Developer"},
+    {"name":"Lakmal M. Siriwardhana","pos":"Lead Developer"},   
+    {"name":"Cyberyakku Team","pos":""}
+  ],
   "types": [
     {
       "name": "type1",
@@ -19,6 +25,16 @@
       "name": "type3",
       "types": "පාන් , සීනි සම්බල් පාන් , මාලු පාන් , නූඩ්ල්ස් , පිට්ස - Pizza ,රොටී ,කඩල",
       "color": "fff0e807"
+    },
+    {
+      "name": "type4",
+      "types": "මඤ්ඤොක්කා, කුරක්කන් කැද, බඩ ඉරිගු, කොමඩු, කොස්",
+      "color": "ff20cc10"
+    },
+    {
+      "name": "type4",
+      "types": "අනෙකුත් දන්සල්",
+      "color": "ff0d91d9"
     }
   ]
 }
